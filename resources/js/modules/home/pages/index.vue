@@ -1,5 +1,11 @@
 <template>
-    <h1 class="text-3xl font-bold text-center">Welcome on Meet Traveler</h1>
+    <h1
+        class="text-3xl font-bold text-center"
+    >
+        <font-awesome-icon icon="fa-brands fa-adn" />
+         Welcome on Meet Traveler
+        <font-awesome-icon icon="fa fa-user-secret" />
+    </h1>
 </template>
 
 
